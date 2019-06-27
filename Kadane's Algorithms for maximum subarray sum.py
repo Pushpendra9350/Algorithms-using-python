@@ -27,10 +27,3 @@ print(maximum)
 
 #OUTPUT:
 #17
-    
-
-
-
-
-
-
